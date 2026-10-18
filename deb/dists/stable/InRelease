@@ -4,49 +4,49 @@ Hash: SHA256
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Sun, 18 Oct 2026 01:25:33 +0000
+Date: Sun, 18 Oct 2026 01:46:33 +0000
 Description: Termoso — SSH, SFTP and terminal client (https://termoso.dev)
 Label: Termoso
 Origin: Termoso
 Suite: stable
 MD5Sum:
- f9ae7dd0b498f613b65e726eef20b9ce              221 Release
+ 5da6807fef1186942bf2c8d2b597c7e5              221 Release
  01a66fb797984bb7ff34cc71cf1553d1              738 main/binary-amd64/Packages
  8ffeab0defcc550fad08e85876aa8ece              502 main/binary-amd64/Packages.gz
  ad1c744a69b2a79f9f73e1fffb4af1b2              738 main/binary-arm64/Packages
  7b4bbf8424c2f3225e330e7823ec5e2c              500 main/binary-arm64/Packages.gz
 SHA1:
- 06fdcf7aa55c8a7954c9cea0ed09c8818384d3cb              221 Release
+ 3f1c6f2292023ebb28dc47e58aa1ab17f477db8d              221 Release
  2a256f5944717ff8b0d2449e6b778c8a4d07ca3d              738 main/binary-amd64/Packages
  5e1fd02583d5e66183ea484b369b323790713390              502 main/binary-amd64/Packages.gz
  4d53ae56186ae98ba3044365a26b0daca413240a              738 main/binary-arm64/Packages
  23d8e479cee3547e52bdb9eca2aa7ffafbd44729              500 main/binary-arm64/Packages.gz
 SHA256:
- 6b57c4c62f3dae4344ca8a286293cf9159f4b9eff7324d29581f3c9ce1c718d0              221 Release
+ ad0087c79ac4ff9b15f0bc89ea6c848e3911d1d8856cb99cd4b283d1d1d052af              221 Release
  4b27f097ff709ae8c20425f72f106a03b893762cd7b9c0417ba6fde78de3c817              738 main/binary-amd64/Packages
  90ec916eaf69373092234ce9feb5016d185cdf196994a2a8a5cba52b4a81a89a              502 main/binary-amd64/Packages.gz
  9c582d87ad0ecc390dae31628ef88a0da1a68ab5175e8b0692b3d98e91c36eb0              738 main/binary-arm64/Packages
  7b29004107d277fd58ca338865bc8532de92dccba26cbcb1935354e86491dfaa              500 main/binary-arm64/Packages.gz
 SHA512:
- dbf30fd6834985b5b278236887dcc128cff125209520c96400250cac709e6fc3292b70970234808df99003fdec7674a745c0366012b58541a3e95d2853955dfe              221 Release
+ 88d0203d2b9973f72d9196ba15b5117faa0a65820f4eef81b0a0f642d65af4a57b586e1f547adb5e2995f6ed01e05a2075ac161d70f6bf00f92b19832ca5cd2a              221 Release
  6e5edb5d08cd217d9258f6b842ab6c5fdc9f8f823437575c27ccd11fcf8644c2cc913e17b75640b80836e8bfd5d952a09b5d9bb578476123c8b07be8f6186416              738 main/binary-amd64/Packages
  c659e4cd1cd64193458e6ed0161aac204e5d810e73c829b6b9d764882b54064bb32c0a2cc17de437b70def72c0b3d13381d89ef22c003745a67ed48ad487081d              502 main/binary-amd64/Packages.gz
  a4a6675a031ad5fb45b04b00a21d38d12665b0fca4a66bae4d2835924234fe97729d971951e4a285e10870b461a4ef1db81b931cb3ec757fdc50ccb2c8b3073f              738 main/binary-arm64/Packages
  1056712373db7560026b6b6969b11daef3663eda09131c4aa6c30760242f4a08088edfdf674ec54cb5599ab3aa40f86dda3fa7eb96e1ef79f6b51a9f7ee8c60d              500 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJJBAEBCAAzFiEEe6AqXypGk3U4ktc6Abv4o5CgvVMFAmrUIA0VHHBhY2thZ2Vz
-QHRlcm1vc28uZGV2AAoJEAG7+KOQoL1TbYMP/RVuRB+0aJkqRWznLpYPFybEhQMn
-AKv9uE9wmu8lKv7/mXWMF/GUSNWibILvqYwrPPTbYreP0a0Qf8KZ14XqLec818cT
-6JavpW7LpYvXgVMfhdujMAi0epwfJ1INtDUj6U2mn9KMLPzRpj0+W0GTs0m0/tzJ
-KC+U5lS2iM5NoDjwP0hpipErlhszcKwrh1anwyVbiKLhSdwh/pDIoWBxwwfChS90
-BsIuG3MsXlIaw0+BfDDQCHevbvxOt4Y33/Lk7Ps7qk6IB3XmnTSv6Kv/xolnQYKb
-rsMGxrVfSUJGhp8fiMGJIaFhjVRaaAXwPWLhiVpaaAurQy00jMEtDVlhNo+/ANNV
-ksCuI1UPO38QZf1m1onxeGiO2HZA425GsUBLXPure8wTkwPsivLzKV74SWRu1rXv
-qzs+XfbXBXfyC8JcvnqvorZv/wC/8NYsnqFrhd+Kx7dInnacy5SfeoomyEupm2Tc
-yuA+roH/AQ03kHJlN6Ldm2lUT/IXt5Ketu/mGb2ix+dY6nMVJMi/mj6xXrbMTEEt
-vWOW7TizS1tEn1iIpmG+rxzd3HAik5QckSaoOWX5k0L+fIDm4IHQCCoBMhkaEOhr
-4xtk/Ij9yvU/OQJ53mU8TaeMEu7iuo5hcXdQB1ReeZjq99nIwL+MznsoO4bQPE6f
-nOARIOQWNMciiaRZ
-=Zxoy
+iQJJBAEBCAAzFiEEe6AqXypGk3U4ktc6Abv4o5CgvVMFAmrUJPkVHHBhY2thZ2Vz
+QHRlcm1vc28uZGV2AAoJEAG7+KOQoL1TbAYP/0Gg2QCENvIiUGE8Q7SKqiepRAsD
+Xh+daw278mt0YCgz7b6F/kovGIATc7ep9iJhpYWdtHSSQXyex6XIWBJz117Rj4rg
+JZAdsTG+M5Cq3dJt1rSZL1jOdd49ah1WYH81gDmL+EofWoRqUYVPn9ukLk9sln8O
+n3fS2eVbGSq9A8TCPz74O/mLaldtv2VMzZXuTgjhz4rzyyleZN8Q5MRN/mHA4U+i
+knHyBMBwBDcU5VFsfS6oUACxx8+eIAb4x7RwaO+Vbnl2BWne6r7S70QMUGVe+ZZn
+pXpurQ6Ws/HWleN8IRe10pNabxStlKbYR/IZ1GHYc5cD9c/MbOJbdHuySaZoYxie
+Q9aN6Pmy+aWGkMw7g4hRgCaK5KW/hpIU1/1+WEc8TaGxFDYXG7tg8nq5N9fdqHAg
+0j3AhW6HLUwrX2c8i4YyW38SG/BfNOLcW//tK1PWXt3QehscE0ewBY8WGYQUuHmj
+rp4nlr5nIXIsWyS4Q0qRcMlevW9c83dn2AIFNsxwJEOu1xsfAf8jykIL/53RtqQs
+y5feKT0gVuBN0AvCKGq1G6PJlYQ9aINLIf4DlrKxWHBXLOeI0Ju1Rt/Ytpd2KIU9
+N0G6AeJOjKRGI7WlusRBPhY5s3X+UKMljvnIzSKKl6yDgUd569GttZ1A0iPvsrls
+uB4TE30yFedQTqkE
+=5wB4
 -----END PGP SIGNATURE-----
