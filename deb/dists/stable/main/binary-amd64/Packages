@@ -1,21 +1,5 @@
 Package: termoso
 Architecture: amd64
-Version: 0.8.6
-Priority: optional
-Maintainer: Termoso
-Installed-Size: 40863
-Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/t/termoso/termoso_0.8.6_amd64.deb
-Size: 20520664
-MD5sum: 077a490e8c1605d266101f3e9c42cd33
-SHA1: 141378937186a93fe52bc980c67574884f9388a8
-SHA256: 5bdfc3596f47533e02ddfbe3532e21915be31d053ad7e8b4c838a9ccf1a28e0f
-SHA512: 03d42b2b8bc6500d17467b4f7ff9d3f888e6e87a2ac9af130180916012e0a5fa4112125c5f0da6d0644dd07f24b3607101c35385a856f18025522d8b4032daf6
-Description: SSH, SFTP and terminal client
- Termoso is a free, open-source, self-hostable SSH/SFTP client with end-to-end encrypted sync and no telemetry.
-
-Package: termoso
-Architecture: amd64
 Version: 0.8.7
 Priority: optional
 Maintainer: Termoso
@@ -27,6 +11,22 @@ MD5sum: 35b2f945990f4cd0ece0f034210e6a14
 SHA1: 16bc6ecda6536f850c609eb7fd29d6d580a7a6e3
 SHA256: 4277c01168dfc3c4fc77c1ce4cf7ac18741a91ceff989953757cc7dc1b7eeb2b
 SHA512: 4b81e83f3ce6c9c9f61c377e6df58676919bfb4606f8b18128e3d675f7225ce09a6403fb992df15c1c9aabc98ccac4b6d204225181542ff5ecb36f7d223520d1
+Description: SSH, SFTP and terminal client
+ Termoso is a free, open-source, self-hostable SSH/SFTP client with end-to-end encrypted sync and no telemetry.
+
+Package: termoso
+Architecture: amd64
+Version: 0.8.8
+Priority: optional
+Maintainer: Termoso
+Installed-Size: 40862
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/t/termoso/termoso_0.8.8_amd64.deb
+Size: 20521194
+MD5sum: a7836a6c3ab5bc80ca976055b55e7589
+SHA1: 107d58cb5f521cfdc7a64c9fb6f0f3335ff8f502
+SHA256: 1ea9645e4a05d569b0935958a6d123f91dcd3b71bb2e4396fe5c8e157f235bd2
+SHA512: 7842c2fc5e184ebbc2562381bd70a6dd3a59376f8c1c5250a433d38dac227ad6aaede1971321b7c2639e58c5e94eb75358f8ee3cbc78955bf05be2256956c564
 Description: SSH, SFTP and terminal client
  Termoso is a free, open-source, self-hostable SSH/SFTP client with end-to-end encrypted sync and no telemetry.
 
