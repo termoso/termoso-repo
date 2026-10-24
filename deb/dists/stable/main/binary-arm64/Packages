@@ -1,16 +1,16 @@
 Package: termoso
 Architecture: arm64
-Version: 0.9.7
+Version: 0.10.0
 Priority: optional
 Maintainer: Termoso
-Installed-Size: 37915
+Installed-Size: 38615
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/t/termoso/termoso_0.9.7_arm64.deb
-Size: 20617546
-MD5sum: 00a05ad5098081d20df25806f3ed3b98
-SHA1: a253b13587e8caf518d9b1db3f4cc2e075ae514e
-SHA256: 05ad39fb32ca814be381bb2e0f84019809c75de9d24dfa11446d1d2f95cdb8dd
-SHA512: 2f8c0e4dadd88406c10fe11bb7c5d7e6519b644e061dda16adbd4bd3290ce7b35e9f7602446970a4b368b0a50d1ec113a3ccd36e9cb926f0ad4a697c71b09b13
+Filename: pool/main/t/termoso/termoso_0.10.0_arm64.deb
+Size: 20930932
+MD5sum: e6b77e3154911af67dedfb40bff31a05
+SHA1: 5510c05f329d578a0351c5a6e7d7d919b388b0d5
+SHA256: e2359267a578465050efb9ec7f1c4bd98a2949122d0a0ff7924ce98b648ae36f
+SHA512: f7d720fed3360ccd17b86a53aa64a195870510e0e254badce5da52057f5332e9c29f04ba4fea4d12416b521e8ead90be675d6a0b5149735b51e33369521baa54
 Description: SSH, SFTP and terminal client
  Termoso is a free, open-source, self-hostable SSH/SFTP client with end-to-end encrypted sync and no telemetry.
 
