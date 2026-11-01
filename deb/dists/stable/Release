@@ -1,32 +1,32 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Sat, 31 Oct 2026 19:44:15 +0000
+Date: Sun, 01 Nov 2026 03:59:45 +0000
 Description: Termoso — SSH, SFTP and terminal client (https://termoso.dev)
 Label: Termoso
 Origin: Termoso
 Suite: stable
 MD5Sum:
- dc00b3237a692747d369402d1f85d393              221 Release
- cadded30c13925da8f7f58635e7451f2             1480 main/binary-amd64/Packages
- f55df2d253912c9f828fa5f0bde2f832              700 main/binary-amd64/Packages.gz
- a4d32b55e1229d9dc828f827d5678855             1480 main/binary-arm64/Packages
- 3c41c37963532bed0885067b26580349              698 main/binary-arm64/Packages.gz
+ 6678c1d66bc3fe5b7097f16c749501d2              221 Release
+ 50d7de594633c9a9f808e08a1c888668             1480 main/binary-amd64/Packages
+ 8c9a817dcebfac2e49e62bc74aa134d0              700 main/binary-amd64/Packages.gz
+ 926864c478eae05bf830b3edbb9047de             1480 main/binary-arm64/Packages
+ 0384235c38cda4a5289f44777fbbb14a              697 main/binary-arm64/Packages.gz
 SHA1:
- a248c34f6d2506f0a6352e7cb00771fbb8fd48ff              221 Release
- 160c6d7125cbbeaa1e98aece7d2240a0844eb697             1480 main/binary-amd64/Packages
- 6bf2ff3abd871b59e7bff2727ce5643a9fa622ca              700 main/binary-amd64/Packages.gz
- f5f128432df122e5b3f27c0292e064f1124ef047             1480 main/binary-arm64/Packages
- 04a0a5f77f3f5f2a203a8456a62d34f4531620c3              698 main/binary-arm64/Packages.gz
+ 72ade6441e6c0176e8c3d8f0c4681e8ff204e7f6              221 Release
+ 59a0f5a79fd38c20b67117852b4dc23208e3de3e             1480 main/binary-amd64/Packages
+ 344bcfe047d92aebfcaaa5e5b7ea1175c899c35d              700 main/binary-amd64/Packages.gz
+ b6dbaa4b7d78605bd80da5e3a7c2750dfd766c73             1480 main/binary-arm64/Packages
+ 2550b23898af8c3b5089b5c3ec1fd6760a6cbd6c              697 main/binary-arm64/Packages.gz
 SHA256:
- ff1e29cc565e8c6a8eac28d3fc796319a2a743654536696b7828a052c85a609f              221 Release
- b506dd908587ca2c499c06fb938ed91c520d71202a36807c01b44438cd8e2444             1480 main/binary-amd64/Packages
- aa116e175aa04f563e12e0d9b32b1ac97f955fec2ce7cebb4ac3284debbb1e6d              700 main/binary-amd64/Packages.gz
- 724a2367e1614feb8a58b630194d10b1957ca4b3f19cb6d9f0435860cba5e3fb             1480 main/binary-arm64/Packages
- fcf06c0d7ff301f9286d3234afcf5f7d437cb1f2322ea3127e63d148c0b202a8              698 main/binary-arm64/Packages.gz
+ 80f4526f8c4f7c0b094f823a584395a002abe94ff6ac68076901413ca9c468e4              221 Release
+ 547d424e3934db9eb3d8a27c7527a4b6449b5fb68a1ff2d5350254ee8bc53d67             1480 main/binary-amd64/Packages
+ ebc3bc75ce4e9c9f5ccd314ad232a01c65a69c87696b6a4971ab039ce099d46e              700 main/binary-amd64/Packages.gz
+ dd73c55bed1d6b2d4cde951380c3b5887a941232dc86e0431774142616ccd3d6             1480 main/binary-arm64/Packages
+ 91304ded1f4b6acb77307030d861a495a022ce7ce47a65faaded432a94a0695d              697 main/binary-arm64/Packages.gz
 SHA512:
- e2d85b9edd8ca58fc5c8d6c93081c7fbc1825bd0dd5f4fbfef9c276259df7a681e4cbaf79a0d5052eaec41e0052a1b6a94efcf1889961292cfa8d54bed477377              221 Release
- 5fdd58fdd401d4abd65b4f168e68194dd7f3465ca4f7b299e89de55002b0fbdf7f5f0e5c4f6629ad577a1107febe721b605977f4d8a656d1d144be42c97b8aaf             1480 main/binary-amd64/Packages
- 0eb0685bd7e324253f4778ccfcf1757838cc39a737d64a0d419339a6b00ce44010b03efab5d8712bcc059c0eb262e4cab3bc36a7ddfbc6558448b1fecd181ffd              700 main/binary-amd64/Packages.gz
- 9f31a7723634b86b02e642eef80e135aacf8ca5132144053e87763eea16161644d90a071d32deaa9510362b219ad230fe124a07318c53c07aef67945c268234f             1480 main/binary-arm64/Packages
- c5ddbcf2a2e0ec4831581c3b7f4bc1610ce751595a2624b8c4ae0f55660e6038a405cb195d6195f39f417adf502fd0a65627125f4ba266a1beaa335ecc602bcb              698 main/binary-arm64/Packages.gz
+ ebfb6e714ce75e2002d3c42b473fcc223d1e3c07aba2de5d3a3c2d51b79598296949d8840bcbd03e288eae71760bb519cff09d4e69c27550c0a2731f0b72f203              221 Release
+ c12316bb35a55dff7be20c47f793f446b9652c96d765f2498193a2fa59bc269338d1867bc81fabbcc4912e2aa98dea0e15edbcea85bef6760f5eb7dd8f156b8e             1480 main/binary-amd64/Packages
+ 9cc6df3f60895e88a8b35a8d6d1f65d7b2c3fe372d5e01835d25a1e7f154acd1cbff8272ef5ed1f69e5359cc29da9b1ec203c0740fff85866ccc66d8220bf007              700 main/binary-amd64/Packages.gz
+ eb9eb117ab792b6eecfae468b58d274c531f8a22b9e71f25d3607af02a6c7b043495c15779a4752a2171cd9b878bc6697ec68f4fd3d0a432a806c9c1c2e9c4a6             1480 main/binary-arm64/Packages
+ 9294582db31fe9d6698ffbd08dd5cf71c2061fa56e0123a6593e2b94c1316cd1b399c89f1ae5c81ce49921569c1b4cf351ef8f75ff69d7a1bdb8282b3e43f227              697 main/binary-arm64/Packages.gz
